@@ -7,7 +7,7 @@
 
 -📫 How to reach me: mail me at sharmamohit0505@gmail.com
 
--⚡ Fun fact: I am certified in life saving and CPR
+-⚡ Fun fact: I am certified in Swim saving and CPR
 
 <!--
 **MohitS05/Mohits05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
