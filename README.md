@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--🔭 I’m currently working on Linux Kernels and making a debugger
+-🔭 I’m currently working on Web porting of Legacy code in cpp
 
 -🌱 I’m currently learning internals of process working in Linux.
 
