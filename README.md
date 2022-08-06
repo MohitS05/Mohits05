@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
--🔭 I’m currently working on Web porting of Legacy code in cpp
+-🔭 I’m currently working on Multithreading a CPP library
+
+- 👯 I’m looking to collaborate on running CPP code on web
 
 -🌱 I’m currently learning internals of process working in Linux.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Linux Kernels and making a debugger
 🌱 I’m currently learning internals of process working in Linux.
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 📫 How to reach me: mail me at sharmamohit0505@gmail.com
